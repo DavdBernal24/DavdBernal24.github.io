@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Better or worse job accessibility? Understanding changes in spatial mismatch: Evidence from Medellín, Colombia"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We propose a methodology to calculate spatial mismatch, which incorporates both monetary transportation costs and opportunity costs while correcting for possible overestimation of job accessibility. This methodology also enables the analysis of spatiotemporal changes in spatial mismatch without discarding data from spatial units that change over time. We apply the methodology to measure spatial mismatch and its evolution in Medellín, Colombia, -a developing country city- for public and private transportation from 2012 to 2017. The results indicate that including transportation and opportunity costs leads to a more realistic measure of job availability to residents. Our findings reveal that, despite investments in public transportation and infrastructure, spatial mismatch in Medellín increased between 2012 and 2017. Additionally, the analysis shows that the greatest loss in job accessibility over time occurred for private transport, suggesting that the expansion of public transport in Medellín may have mitigated spatial mismatch.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
