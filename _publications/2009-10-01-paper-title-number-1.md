@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We propose a methodology to measure spatial mismatch that accounts for transportation costs, opportunity costs, and changes in spatial units over time. Applying this approach to Medellín, Colombia, we find that spatial mismatch increased from 2012 to 2017 despite investments in transportation infrastructure, with the largest losses in job accessibility occurring for private transport.'
 date: 
-venue: 'Published in Journal of Transport Geography, 2025'
+venue: 'Journal of Transport Geography'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
