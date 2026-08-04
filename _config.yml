@@ -23,8 +23,8 @@ repository               : "DavdBernal24/DavdBernal24.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "david_bernal_photo.jpg"
+  name             : "Victor David Bernal Pavas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
