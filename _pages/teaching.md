@@ -16,3 +16,7 @@ author_profile: true
 - **Graduate Urban Economics**, University of Houston, Spring 2026  
   Instructor: Janet E. Kohlhase
 
+  - **History of Economic Doctrine**, University of Houston, Fall 2023, Spring 2025, Fall 2025
+  Instructor: Piruz Saboury
+
+
