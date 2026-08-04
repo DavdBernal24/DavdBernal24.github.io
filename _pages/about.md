@@ -13,6 +13,8 @@ My research interests are in urban economics, transportation economics, public e
 
 My job market paper, *Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock*, uses the COVID-19 shock to commuting demand in California to study changes in congestion costs and the optimal design of road pricing policies.
 
+I will be on the 2026–2027 economics job market.
+
 
 Current Research
 ======
