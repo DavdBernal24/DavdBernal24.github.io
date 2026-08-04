@@ -19,7 +19,7 @@ Current Research
 
 
 :
-- [MathJax](https://www.mathjax.org/) 
+- [Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock](https://DavdBernal24.github.io/files/Bernal_JMP.pdf) Job Market Paper
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
 
