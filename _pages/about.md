@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Ph.D. candidate in Economics at the University of Houston. I received my undergraduate degree in Economics from Universidad de Antioquia and my master’s degree in Economics from Universidad EAFIT.
+
+My research interests are in urban economics, transportation economics, public economics, environmental economics, and applied microeconomics. My work studies how transportation systems, spatial frictions, and public policy shape economic outcomes across cities and regions.
+
+My job market paper, *Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock*, uses the COVID-19 shock to commuting demand in California to study changes in congestion costs and the optimal design of road pricing policies.
+
+I will be on the 2026–2027 economics job market.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
