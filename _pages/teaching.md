@@ -11,6 +11,8 @@ author_profile: true
 
 ## Teaching Assistant
 
+- **Economics Internship **, University of Houston, Summer 2026  
+
 - **Graduate Urban Economics**, University of Houston, Spring 2026  
   Instructor: Janet E. Kohlhase
 
