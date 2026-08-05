@@ -8,7 +8,7 @@ author_profile: true
 ## Main Instructor
 
 - **Principles of Microeconomics**, University of Houston, Fall 2024  
-  [Syllabus](/files/Bernal_Principles_Microeconomics_Syllabus.pdf) | [Selected student comments](/files/Comments_microprin.pdf)
+  [Syllabus](/files/Syllabus_Pmicro_UH.pdf) | [Selected student comments](/files/Comments_microprin.pdf)
 
 ## Teaching Assistant
 
