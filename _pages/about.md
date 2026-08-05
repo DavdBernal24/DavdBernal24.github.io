@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of Houston. I received my undergraduate degree in Economics from Universidad de Antioquia and my master’s degree in Economics from Universidad EAFIT.
+I am a Ph.D. candidate in Economics at the [University of Houston](https://www.uh.edu/). I received my undergraduate degree in Economics from [Universidad de Antioquia](https://www.udea.edu.co/) and my master’s degree in Economics from [Universidad EAFIT](https://www.eafit.edu.co/).
 
 My research interests are in urban economics, transportation economics, public economics, environmental economics, and applied microeconomics. My work studies how transportation systems, spatial frictions, and public policy shape economic outcomes across cities and regions.
 
