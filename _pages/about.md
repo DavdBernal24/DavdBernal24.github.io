@@ -26,7 +26,7 @@ Current Research
   **Draft coming soon**
 
 - The Effect of Policy Variation on Urban Density: The Consequences of Crossed Borders for Cities  
-  with Steven Bond-Smith, Steven G. Craig, and Edward Hoang  
+  With Steven Bond-Smith, Steven G. Craig, and Edward Hoang  
   **Draft coming soon**
 
 
