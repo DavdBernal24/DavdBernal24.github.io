@@ -20,4 +20,13 @@ author_profile: true
 - **History of Economic Doctrine**, University of Houston, Fall 2023, Spring 2025, Fall 2025<br>
   Instructor: Piruz Saboury
 
+  - **Principles of Microeconomics**, University of Houston, Summer 2025<br>
+  Instructor: Md Shahadath Hossain
+
+  - **Intermediate Microeconomics**, University of Houston, Spring 2024<br>  
+  Instructor: Piruz Saboury
+
+  - **Introduction to Econometrics**, University of Houston, Spring 2023<br>  
+  Instructor: Dhanushka Peru
+
 
