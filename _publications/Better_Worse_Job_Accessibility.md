@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/better-or-worse-job-accessibility-medellin
 excerpt: 'We propose a methodology to measure spatial mismatch that accounts for transportation costs, opportunity costs, and changes in spatial units over time. Applying this approach to Medellín, Colombia, we find that spatial mismatch increased from 2012 to 2017 despite investments in transportation infrastructure, with the largest losses in job accessibility occurring for private transport.'
-date: 2026-01-01
+date: 2025-01-01
 venue: 'Journal of Transport Geography'
 ---
 
