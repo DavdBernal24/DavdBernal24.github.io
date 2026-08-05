@@ -1,5 +1,5 @@
 ---
-title: "Better or worse job accessibility? Understanding changes in spatial mismatch: Evidence from Medellín, Colombia"
+title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mismatch: Evidence from Medellín, Colombia"
 collection: publications
 category: manuscripts
 permalink: /publication/better-or-worse-job-accessibility-medellin
