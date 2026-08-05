@@ -23,10 +23,10 @@ author_profile: true
 - **Principles of Microeconomics**, University of Houston, Summer 2025<br>
   Instructor: Md Shahadath Hossain
 
-- **Intermediate Microeconomics**, University of Houston, Spring 2024
+- **Intermediate Microeconomics**, University of Houston, Spring 2024<br>
   Instructor: Piruz Saboury
 
-- **Introduction to Econometrics**, University of Houston, Spring 2023 
+- **Introduction to Econometrics**, University of Houston, Spring 2023<br> 
   Instructor: Dhanushka Peru
 
 
