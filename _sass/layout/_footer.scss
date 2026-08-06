@@ -104,11 +104,34 @@ bottom: auto;
 }
 
 
-/* Larger profile photo on mobile */
+/* Profile photo on mobile: larger than default, but not overwhelming */
 @media screen and (max-width: 768px) {
+  .author__avatar {
+    width: 100px !important;
+    min-width: 100px !important;
+    max-width: 100px !important;
+    margin-right: 16px !important;
+  }
+
   .author__avatar img {
-    width: 120px !important;
-    height: 120px !important;
-    max-width: 120px !important;
+    width: 100px !important;
+    height: auto !important;
+    max-width: 100px !important;
+    object-fit: contain !important;
+    border-radius: 50% !important;
+  }
+
+  .author__content {
+    min-width: 0 !important;
+  }
+
+  .author__name {
+    font-size: 1.05em !important;
+    line-height: 1.15 !important;
+  }
+
+  .author__bio {
+    font-size: 0.9em !important;
+    line-height: 1.35 !important;
   }
 }
