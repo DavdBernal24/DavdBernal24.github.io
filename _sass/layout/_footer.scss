@@ -107,12 +107,20 @@ bottom: auto;
 /* Larger profile photo on mobile */
 @media screen and (max-width: 768px) {
   .author__avatar {
-    text-align: center;
+    display: block !important;
+    width: 120px !important;
+    min-width: 120px !important;
+    max-width: 120px !important;
+    height: auto !important;
+    margin-right: 20px !important;
   }
 
   .author__avatar img {
-    width: 200px !important;
-    height: 200px !important;
-    max-width: 200px !important;
+    width: 120px !important;
+    height: 120px !important;
+    max-width: 120px !important;
+    min-width: 120px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
   }
 }
