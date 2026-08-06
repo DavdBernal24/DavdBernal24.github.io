@@ -102,3 +102,17 @@ bottom: auto;
     }
   }
 }
+
+
+/* Larger profile photo on mobile */
+@media screen and (max-width: 768px) {
+  .author__avatar {
+    text-align: center;
+  }
+
+  .author__avatar img {
+    width: 200px !important;
+    height: 200px !important;
+    max-width: 200px !important;
+  }
+}
