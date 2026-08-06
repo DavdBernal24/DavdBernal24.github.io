@@ -104,34 +104,46 @@ bottom: auto;
 }
 
 
-/* Profile photo on mobile: larger than default, but not overwhelming */
+/* Clean mobile author profile layout */
 @media screen and (max-width: 768px) {
   .author__avatar {
-    width: 100px !important;
-    min-width: 100px !important;
-    max-width: 100px !important;
-    margin-right: 16px !important;
+    display: block !important;
+    float: none !important;
+    width: 150px !important;
+    max-width: 150px !important;
+    margin: 0 auto 1rem auto !important;
+    text-align: center !important;
   }
 
   .author__avatar img {
-    width: 100px !important;
-    height: auto !important;
-    max-width: 100px !important;
-    object-fit: contain !important;
+    display: block !important;
+    width: 150px !important;
+    height: 150px !important;
+    max-width: 150px !important;
+    object-fit: cover !important;
     border-radius: 50% !important;
+    margin: 0 auto !important;
   }
 
   .author__content {
-    min-width: 0 !important;
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
   }
 
   .author__name {
-    font-size: 1.05em !important;
-    line-height: 1.15 !important;
+    font-size: 1.25em !important;
+    line-height: 1.2 !important;
+    margin-bottom: 0.25rem !important;
   }
 
   .author__bio {
-    font-size: 0.9em !important;
+    font-size: 0.95em !important;
     line-height: 1.35 !important;
+    margin-bottom: 0.75rem !important;
+  }
+
+  .author__urls-wrapper {
+    display: none !important;
   }
 }
