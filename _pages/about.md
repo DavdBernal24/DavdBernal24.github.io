@@ -22,8 +22,8 @@ Current Research
 - [Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock](https://DavdBernal24.github.io/files/Bernal_JMP.pdf)  
   **Job Market Paper**
 
-- Negotiation, Ceasefire, and Human Capital: Evidence from Colombia  
-  **Draft coming soon**
+- [From Conflict to Human Capital? Evidence from Colombia's Peace Process](https://DavdBernal24.github.io/files/Education_HumanCapital_DavidBernal.pdf)  
+
 
 - The Effect of Policy Variation on Urban Density: The Consequences of Crossed Borders for Cities  
   With Steven Bond-Smith, Steven G. Craig, and Edward Hoang  
