@@ -23,7 +23,7 @@ Current Research
   **Job Market Paper**
 
 - [From Conflict to Human Capital? Evidence from Colombia's Peace Process](https://DavdBernal24.github.io/files/Education_HumanCapital_DavidBernal.pdf)  
-
+  **Working Paper**
 
 - The Effect of Policy Variation on Urban Density: The Consequences of Crossed Borders for Cities  
   With Steven Bond-Smith, Steven G. Craig, and Edward Hoang  
