@@ -20,7 +20,7 @@ Current Research
 ======
 
 - [Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock](https://DavdBernal24.github.io/files/Bernal_JMP.pdf)  
-  **Job Market Paper**
+  **Job Market Paper**<br>
   Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), November 2026.
   
 
