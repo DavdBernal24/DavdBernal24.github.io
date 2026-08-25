@@ -21,7 +21,7 @@ Current Research
 
 - [Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock](https://DavdBernal24.github.io/files/Bernal_JMP.pdf)  
   **Job Market Paper**<br>
-  Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), November 2026.
+  Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), Philadelphia, PA, November 2026.
   
 
 - [From Conflict to Human Capital? Evidence from Colombia's Peace Process](https://DavdBernal24.github.io/files/Education_HumanCapital_DavidBernal.pdf)  
