@@ -19,7 +19,7 @@ I will be on the 2026–2027 economics job market.
 Current Research
 ======
 
-- [Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock](https://DavdBernal24.github.io/files/Bernal_JMP.pdf)  
+- [Less Traffic, Higher Tolls: Optimal Congestion Pricing under Remote Work and Traveler Heterogeneity](https://DavdBernal24.github.io/files/Bernal_JMP.pdf)  
   **Job Market Paper**<br>
   Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), Philadelphia, PA, November 2026.
   
