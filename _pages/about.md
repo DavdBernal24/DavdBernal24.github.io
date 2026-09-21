@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at the [University of Houston](https://www.uh.edu/). I received my undergraduate degree in Economics from [Universidad de Antioquia](https://www.udea.edu.co/) and my master’s degree in Economics from [Universidad EAFIT](https://www.eafit.edu.co/).
 
-My research interests are in urban economics, transportation economics, public economics, environmental economics, and applied microeconomics. My work studies how transportation systems, spatial frictions, and public policy shape economic outcomes across cities and regions.
+My research interests are in urban economics, transportation economics, public economics, environmental economics, and applied microeconomics. Most of my work studies how transportation systems, spatial frictions, and public policy shape economic outcomes across cities and regions.
 
 My job market paper, *Less Traffic, Higher Tolls: Optimal Congestion Pricing under Remote Work and Traveler Heterogeneity*, studies how differences in travel demand and the value of time across income groups shape optimal congestion pricing. Using freeway traffic and commuting data from five California counties, I estimate group-specific demand responses to remote work and compare a common congestion toll with differentiated charges across income groups.
 
