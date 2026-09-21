@@ -12,10 +12,10 @@ author_profile: true
 
 ## Teaching Assistant
 
-- **Economics Internship**, University of Houston, Summer 2026  
-
 - **Graduate Urban Economics**, University of Houston, Spring 2026<br>
   *Instructor: Janet E. Kohlhase*
+  
+- **Social Economy and Enterprise Academy Internship Program**, University of Houston, Summer 2026  
 
 - **History of Economic Doctrine**, University of Houston, Fall 2023, Spring 2025, Fall 2025<br>
   *Instructor: Piruz Saboury*
@@ -26,7 +26,7 @@ author_profile: true
 - **Intermediate Microeconomics**, University of Houston, Spring 2024<br>
   *Instructor: Piruz Saboury*
 
-- **Introduction to Econometrics**, University of Houston, Spring 2023<br>
+- **Introduction to Econometrics**, University of Houston, Spring 2023, Fall2026<br>
   *Instructor: Dhanushka Peru*
 
 
