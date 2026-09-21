@@ -12,7 +12,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-- **Graduate Urban Economics**, University of Houston, Spring 2026<br>
+- **Ph.D. Urban Economics**, University of Houston, Spring 2026<br>
   *Instructor: Janet E. Kohlhase*
   
 - **Social Economy and Enterprise Academy Internship Program**, University of Houston, Summer 2026  
