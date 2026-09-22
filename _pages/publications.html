@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -11,16 +11,42 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<h2>Job Market Paper</h2>
+
+<p>
+  <a href="/files/Bernal_JMP.pdf">
+    Remote Work and Optimal Congestion Pricing: Evidence from the COVID-19 Demand Shock
+  </a><br>
+  <strong>Job Market Paper</strong><br>
+  Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), Philadelphia, PA, November 11–14, 2026.
+</p>
+
+<h2>Working Papers</h2>
+
+<p>
+  <a href="/files/Colombia_Human_Capital.pdf">
+    From Conflict to Human Capital? Evidence from Colombia’s Peace Process
+  </a><br>
+  <strong>Working Paper</strong>
+</p>
+
+<p>
+  <strong>The Effect of Policy Variation on Urban Density: The Consequences of Crossed Borders for Cities</strong><br>
+  With Steven Bond-Smith, Steven G. Craig, and Edward Hoang.<br>
+  <strong>Draft coming soon</strong>
+</p>
+
+<h2>Publications</h2>
+
+<!-- Existing automatic publication rendering -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -31,6 +57,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
 
