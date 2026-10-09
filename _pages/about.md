@@ -25,7 +25,7 @@ Current Research
   
 
 - [From Conflict to Human Capital? Evidence from Colombia's Peace Process](https://DavdBernal24.github.io/files/Education_HumanCapital_DavidBernal.pdf)  
-  **Working Paper**
+  **Working Paper**<br>
   Scheduled presentation: Annual Congress of the Network of Economic Researchers, Banco de la República and Universidad EIA, Medellín, Colombia, December 3–4, 2026.
 
 - The Effect of Policy Variation on Urban Density: The Consequences of Crossed Borders for Cities  
