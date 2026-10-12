@@ -21,7 +21,8 @@ Current Research
 
 - [Less Traffic, Higher Tolls: Optimal Congestion Pricing under Remote Work and Traveler Heterogeneity](https://DavdBernal24.github.io/files/Bernal_JMP.pdf)  
   **Job Market Paper**<br>
-  Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), Philadelphia, PA, November 2026.
+  Scheduled presentation: North American Meetings of the Regional Science Association International (NARSC), Philadelphia, PA, November 2026.<br>
+  **Finalist, 2026 NARSC Graduate Student-Author Paper Competition.**
   
 
 - [From Conflict to Human Capital? Evidence from Colombia's Peace Process](https://DavdBernal24.github.io/files/Education_HumanCapital_DavidBernal.pdf)  
